@@ -1,0 +1,24 @@
+{
+  "name": "hello-react-fiber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shimizacken/hello-react-fiber.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shimizacken/hello-react-fiber/issues"
+  },
+  "homepage": "https://github.com/shimizacken/hello-react-fiber#readme",
+  "dependencies": {
+    "react": "^16.0.0-rc.2",
+    "react-dom": "^16.0.0-rc.2"
+  }
+}
